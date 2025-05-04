@@ -144,26 +144,28 @@ main section ul {  /*調整内容　文　囲い*/
 }
 
 section ul li{ /*囲ってある文*/
-    font-size: 20px;
+    font-size: 25px;
     padding: 5px auto;
     text-align: left;
     margin:20px 0px;
 }
 .hajimeni h5{
-    font-size: 20px;
+    font-size: 25px;
     color:black;
+    margin-left: 20px;
 }
 .hajimeni h6{
-    font-size: 40px;
+    font-size: 50px;
     color:rgb(255, 111, 0);
     text-align: center;
     font-weight: 800;
     text-decoration: underline solid;
 }
 .hajimeni h1{
-    font-size: 20px;
+    font-size: 25px;
     color:black;
     text-align: right;
+    margin-right: 20px;
 }
 
 .syousai1 h5{
@@ -479,9 +481,10 @@ Lv3{
     }
 
     .hajimeni h5{ /*スパロー紹介文　前*/
-        font-size: 15px;
+        font-size: 13px;
         color:black;
         font-weight: 600;
+        margin-left: 5px;
     }
     .hajimeni h6{ /*スパロー紹介文　スパロー強調*/
         font-size: 30px;
@@ -491,10 +494,11 @@ Lv3{
         text-decoration: underline solid;
     }
     .hajimeni h1{ /*スパロー紹介文　後*/
-        font-size: 15px;
+        font-size: 13px;
         font-weight: 600;
         color:black;
         text-align: right;
+        margin-right: 5px;
     }
     
     .syousai1 h5{ /*パッシブ*/
