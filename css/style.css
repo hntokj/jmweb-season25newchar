@@ -421,6 +421,7 @@ Lv3{
     }
     section ul li{ /*囲ってある文*/
         font-size: 15px;
+        font-weight: 500;
         padding: 5px auto;
         text-align: left;
         margin:20px 0px;
@@ -503,6 +504,7 @@ Lv3{
     
     .syousai1 h5{ /*パッシブ*/
         font-size: 20px;
+        font-weight: 600;
         color: black;
         border-bottom: 5px double red;
         width:50%;
@@ -512,6 +514,7 @@ Lv3{
     
     .syousai2 h5{ /*戦術*/
         font-size: 20px;
+        font-weight: 600;
         color: black;
         border-bottom: 5px double red;
         width:80%;
