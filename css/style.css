@@ -137,9 +137,10 @@ main section h4{/*ヒューズ弱体化*/
 }
 
 main section ul {  /*調整内容　文　囲い*/
+    width:90%;
     border: 5px solid rgb(174, 230, 191);
     padding: 30px 0px 30px 0px ;
-    margin: 10px 70px 20px;
+    margin: 10px auto;
 }
 
 section ul li{ /*囲ってある文*/
@@ -403,7 +404,7 @@ Lv3{
         margin: 10px auto;
     }
     main section ul {  /*調整内容　文　囲い*/
-        width:90%;
+        width: 90%;
         border: 5px solid rgb(174, 230, 191);
         padding: 20px 0px 20px 0px ;
         margin: 10px auto;
@@ -480,6 +481,7 @@ Lv3{
     .hajimeni h5{ /*スパロー紹介文　前*/
         font-size: 15px;
         color:black;
+        font-weight: 600;
     }
     .hajimeni h6{ /*スパロー紹介文　スパロー強調*/
         font-size: 30px;
@@ -490,6 +492,7 @@ Lv3{
     }
     .hajimeni h1{ /*スパロー紹介文　後*/
         font-size: 15px;
+        font-weight: 600;
         color:black;
         text-align: right;
     }
